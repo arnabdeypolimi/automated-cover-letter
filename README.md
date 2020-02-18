@@ -10,4 +10,4 @@ this application generate cover letters for job application
 
 ## example
 
-[embed]ABB_cover.pdf[/embed] 
+[embed]https://github.com/arnabdeypolimi/automated-cover-letter/blob/master/ABB_cover.pdf[/embed] 
