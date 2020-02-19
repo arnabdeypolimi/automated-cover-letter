@@ -5,7 +5,7 @@ this application generate cover letters for job application
 
 ## usage 
 - change coverletter_new.tex with your information for first time
-- run app.py -c "company name" -l "location" -t "job title" -s "sentence about company"
+- run `python app.py -c "company name" -l "location" -t "job title" -s "sentence about company"`
 - it will generate a pdf 
 
 ## example
